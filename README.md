@@ -1,2 +1,1 @@
-# Spring_SQS
-Spring_SQS
+Example of communicator from queue SQS using the protocol JMS and SpringBoot.
